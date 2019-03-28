@@ -92,7 +92,7 @@ In monte calro we have to choose the appropriate simulink file and set the varia
 ![RandomIntegerGenerator Paramters](/QAM16/RandomIntergerParameters.png)
 
 - ### If you run the simulation you would get the following diagrams (Before Noiseon left and After Noise right)
-![Before Noise Diagram](/QAM16/BeforeNosie.png) ![After Noise Diagram](/QAM16/AfterNoise.png)
+![Before Noise Diagram](/QAM16/BeforeNosie.png) ![After Noise Diagram](/QAM16/AfterNosie.png)
 
 - ### start bit error analysis like before
 
@@ -114,7 +114,7 @@ In monte calro we have to choose the appropriate simulink file and set the varia
 ![RandomIntegerGenerator Paramters](/QAM64/RandomIntergerParameters.png)
 
 - ### If you run the simulation you would get the following diagrams (Before Noiseon left and After Noise right)
-![Before Noise Diagram](/QAM64/BeforeNosie.png) ![After Noise Diagram](/QAM64/AfterNoise.png)
+![Before Noise Diagram](/QAM64/BeforeNosie.png) ![After Noise Diagram](/QAM64/AfterNosie.png)
 
 - ### start bit error analysis like before
 
