@@ -412,127 +412,127 @@
       <void index="1">
        <array class="double" length="41">
         <void index="0">
-         <double>0.88</double>
-        </void>
-        <void index="1">
-         <double>0.83</double>
-        </void>
-        <void index="2">
-         <double>0.89</double>
-        </void>
-        <void index="3">
-         <double>0.92</double>
-        </void>
-        <void index="4">
-         <double>0.82</double>
-        </void>
-        <void index="5">
-         <double>0.9</double>
-        </void>
-        <void index="6">
-         <double>0.87</double>
-        </void>
-        <void index="7">
-         <double>0.87</double>
-        </void>
-        <void index="8">
-         <double>0.84</double>
-        </void>
-        <void index="9">
-         <double>0.77</double>
-        </void>
-        <void index="10">
-         <double>0.87</double>
-        </void>
-        <void index="11">
-         <double>0.85</double>
-        </void>
-        <void index="12">
-         <double>0.89</double>
-        </void>
-        <void index="13">
-         <double>0.89</double>
-        </void>
-        <void index="14">
-         <double>0.82</double>
-        </void>
-        <void index="15">
-         <double>0.79</double>
-        </void>
-        <void index="16">
-         <double>0.84</double>
-        </void>
-        <void index="17">
          <double>0.86</double>
         </void>
-        <void index="18">
-         <double>0.88</double>
-        </void>
-        <void index="19">
-         <double>0.8</double>
-        </void>
-        <void index="20">
-         <double>0.85</double>
-        </void>
-        <void index="21">
-         <double>0.88</double>
-        </void>
-        <void index="22">
-         <double>0.79</double>
-        </void>
-        <void index="23">
-         <double>0.82</double>
-        </void>
-        <void index="24">
-         <double>0.87</double>
-        </void>
-        <void index="25">
-         <double>0.85</double>
-        </void>
-        <void index="26">
-         <double>0.83</double>
-        </void>
-        <void index="27">
-         <double>0.83</double>
-        </void>
-        <void index="28">
-         <double>0.89</double>
-        </void>
-        <void index="29">
-         <double>0.82</double>
-        </void>
-        <void index="30">
-         <double>0.83</double>
-        </void>
-        <void index="31">
-         <double>0.77</double>
-        </void>
-        <void index="32">
+        <void index="1">
          <double>0.84</double>
         </void>
+        <void index="2">
+         <double>0.85</double>
+        </void>
+        <void index="3">
+         <double>0.85</double>
+        </void>
+        <void index="4">
+         <double>0.86</double>
+        </void>
+        <void index="5">
+         <double>0.85</double>
+        </void>
+        <void index="6">
+         <double>0.85</double>
+        </void>
+        <void index="7">
+         <double>0.75</double>
+        </void>
+        <void index="8">
+         <double>0.83</double>
+        </void>
+        <void index="9">
+         <double>0.82</double>
+        </void>
+        <void index="10">
+         <double>0.79</double>
+        </void>
+        <void index="11">
+         <double>0.73</double>
+        </void>
+        <void index="12">
+         <double>0.72</double>
+        </void>
+        <void index="13">
+         <double>0.71</double>
+        </void>
+        <void index="14">
+         <double>0.72</double>
+        </void>
+        <void index="15">
+         <double>0.73</double>
+        </void>
+        <void index="16">
+         <double>0.73</double>
+        </void>
+        <void index="17">
+         <double>0.66</double>
+        </void>
+        <void index="18">
+         <double>0.68</double>
+        </void>
+        <void index="19">
+         <double>0.66</double>
+        </void>
+        <void index="20">
+         <double>0.62</double>
+        </void>
+        <void index="21">
+         <double>0.57</double>
+        </void>
+        <void index="22">
+         <double>0.53</double>
+        </void>
+        <void index="23">
+         <double>0.54</double>
+        </void>
+        <void index="24">
+         <double>0.51</double>
+        </void>
+        <void index="25">
+         <double>0.53</double>
+        </void>
+        <void index="26">
+         <double>0.48</double>
+        </void>
+        <void index="27">
+         <double>0.39</double>
+        </void>
+        <void index="28">
+         <double>0.35</double>
+        </void>
+        <void index="29">
+         <double>0.31</double>
+        </void>
+        <void index="30">
+         <double>0.3</double>
+        </void>
+        <void index="31">
+         <double>0.3</double>
+        </void>
+        <void index="32">
+         <double>0.22</double>
+        </void>
         <void index="33">
-         <double>0.76</double>
+         <double>0.24</double>
         </void>
         <void index="34">
-         <double>0.81</double>
+         <double>0.19</double>
         </void>
         <void index="35">
-         <double>0.8</double>
+         <double>0.2</double>
         </void>
         <void index="36">
-         <double>0.76</double>
+         <double>0.17</double>
         </void>
         <void index="37">
-         <double>0.8</double>
+         <double>0.13</double>
         </void>
         <void index="38">
-         <double>0.8</double>
+         <double>0.12</double>
         </void>
         <void index="39">
-         <double>0.69</double>
+         <double>0.06</double>
         </void>
         <void index="40">
-         <double>0.78</double>
+         <double>0.08</double>
         </void>
        </array>
       </void>
@@ -712,7 +712,7 @@
        <string>[-10 -9.5 -9 -8.5 -8 -7.5 -7 -6.5 -6 -5.5 -5 -4.5 -4 -3.5 -3 -2.5 -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10]</string>
       </void>
       <void index="5">
-       <string>[0.88  0.83  0.89  0.92  0.82  0.9  0.87  0.87  0.84  0.77  0.87  0.85  0.89  0.89  0.82  0.79  0.84  0.86  0.88  0.8  0.85  0.88  0.79  0.82  0.87  0.85  0.83  0.83  0.89  0.82  0.83  0.77  0.84  0.76  0.81  0.8  0.76  0.8  0.8  0.69  0.78]</string>
+       <string>[0.86  0.84  0.85  0.85  0.86  0.85  0.85  0.75  0.83  0.82  0.79  0.73  0.72  0.71  0.72  0.73  0.73  0.66  0.68  0.66  0.62  0.57  0.53  0.54  0.51  0.53  0.48  0.39  0.35  0.31  0.3  0.3  0.22  0.24  0.19  0.2  0.17  0.13  0.12  0.06  0.08]</string>
       </void>
       <void index="6">
        <string>[100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100  100]</string>
@@ -737,7 +737,7 @@
      <boolean>false</boolean>
     </void>
     <void method="add">
-     <boolean>false</boolean>
+     <boolean>true</boolean>
     </void>
    </object>
   </void>
@@ -1089,7 +1089,7 @@
      <string>1</string>
     </void>
     <void property="ebno">
-     <string>-10:10</string>
+     <string>0:18</string>
     </void>
     <void property="modOrder">
      <string>2</string>
