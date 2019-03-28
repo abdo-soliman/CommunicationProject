@@ -46,7 +46,7 @@ In monte calro we have to choose the appropriate simulink file and set the varia
 ![RandomIntegerGenerator Paramters](/FSK/RandomIntergerParameters.png)
 
 - ### If you run the simulation you would get the following diagrams (Before Noiseon left and After Noise right)
-![Before Noise Diagram](/FSK/BerforeNoise.png) ![After Noise Diagram](/FSK/AfterNoise.png)
+![Before Noise Diagram](/FSK/BeforeNosie.png) ![After Noise Diagram](/FSK/AfterNosie.png)
 
 - ### start bit error analysis like before
 
@@ -67,7 +67,7 @@ In monte calro we have to choose the appropriate simulink file and set the varia
 ![RandomIntegerGenerator Paramters](/QPSK/RandomIntergerParameters.png)
 
 - ### If you run the simulation you would get the following diagrams (Before Noiseon left and After Noise right)
-![Before Noise Diagram](/QPSK/BerforeNoise.png) ![After Noise Diagram](/QPSK/AfterNoise.png)
+![Before Noise Diagram](/QPSK/BeforeNosie.png) ![After Noise Diagram](/QPSK/AfterNosie.png)
 
 - ### start bit error analysis like before
 
@@ -92,7 +92,7 @@ In monte calro we have to choose the appropriate simulink file and set the varia
 ![RandomIntegerGenerator Paramters](/QAM16/RandomIntergerParameters.png)
 
 - ### If you run the simulation you would get the following diagrams (Before Noiseon left and After Noise right)
-![Before Noise Diagram](/QAM16/BerforeNoise.png) ![After Noise Diagram](/QAM16/AfterNoise.png)
+![Before Noise Diagram](/QAM16/BeforeNosie.png) ![After Noise Diagram](/QAM16/AfterNoise.png)
 
 - ### start bit error analysis like before
 
@@ -114,7 +114,7 @@ In monte calro we have to choose the appropriate simulink file and set the varia
 ![RandomIntegerGenerator Paramters](/QAM64/RandomIntergerParameters.png)
 
 - ### If you run the simulation you would get the following diagrams (Before Noiseon left and After Noise right)
-![Before Noise Diagram](/QAM64/BerforeNoise.png) ![After Noise Diagram](/QAM64/AfterNoise.png)
+![Before Noise Diagram](/QAM64/BeforeNosie.png) ![After Noise Diagram](/QAM64/AfterNoise.png)
 
 - ### start bit error analysis like before
 
